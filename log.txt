@@ -1,1 +1,2 @@
 Add test case for W [nI4PUB] line 7.2
+Add test case for W [nNKORI] line 8.1
